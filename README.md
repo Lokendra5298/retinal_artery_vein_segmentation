@@ -204,11 +204,17 @@ This project explores how architecture and initialization influence multi-class 
 # 🏆 Key Features
 
 ✔ Multi-class A/V segmentation
+
 ✔ Transfer learning from ImageNet
+
 ✔ Dice + CrossEntropy hybrid loss
+
 ✔ Strong augmentation pipeline
+
 ✔ Cross-dataset evaluation
+
 ✔ Visualization tools
+
 ✔ Modular architecture design
 
 If you want, I can also generate:
